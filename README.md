@@ -1,6 +1,6 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/5fd1c5b8-5b07-4c26-a52c-7463c7145491)
-
+&nbsp;
 <!--
 **jeffjordan97/jeffjordan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a full-stack software engineer from Liverpool, UK.
 
-As a seasoned Software Engineer, I specialize in designing and deploying scalable cloud architectures, developing robust microservices, and building responsive, high-performance webpages. 
-With expertise in Java, C#, Angular, and DevOps tools like Kubernetes and Docker, I excel in creating full-stack applications that enhance productivity and reliability. 
-My strong background in API design, CI/CD automation, cloud-native development, and front-end frameworks enables me to deliver impactful solutions in fast-paced, agile environments. 
-Passionate about mentoring teams and driving innovation, I am dedicated to solving complex technical challenges and continuously advancing technology in dynamic settings.
+<p>I'm a full-stack <b>software engineer</b> from Liverpool, UK.</p>
 
-### 🧰 Languages and Tools
+<p>As a seasoned Software Engineer, I specialize in designing and deploying scalable cloud architectures, developing robust microservices, and building responsive, high-performance webpages.&nbsp;
+<p>With expertise in Java, C#, Angular, and DevOps tools like Kubernetes and Docker, I excel in creating full-stack applications that enhance productivity and reliability.&nbsp;
+<p>My strong background in API design, CI/CD automation, cloud-native development, and front-end frameworks enables me to deliver impactful solutions in fast-paced, agile environments. &nbsp;
+<p>Passionate about mentoring teams and driving innovation, I am dedicated to solving complex technical challenges and continuously advancing technology in dynamic settings.</p>
+&nbsp;
 
+<h3 align="left">🧰 Languages and Tools</h3>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -44,8 +45,8 @@ Passionate about mentoring teams and driving innovation, I am dedicated to solvi
 <img align="left" alt="Elastic" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
-
-<h3 align="left">Connect with me:</h3>
+&nbsp;
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeffrey-jordan1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrey-jordan1997" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffjordan97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffjordan97" height="30" width="40" /></a>
