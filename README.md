@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+<img align="left" alt="Rancher" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/R/rancher-logo-73FFF3C1F7-seeklogo.com.png" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Elastic" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
