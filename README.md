@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 #
 <p>I'm a full-stack <b>software engineer</b> from Liverpool, UK.</p>
 
-<p>As a seasoned Software Engineer, I specialize in designing and deploying scalable cloud architectures, developing robust microservices, and building responsive, high-performance webpages.&nbsp;
-<p>With expertise in Java, C#, Angular, and DevOps tools like Kubernetes and Docker, I excel in creating full-stack applications that enhance productivity and reliability.&nbsp;
-<p>My strong background in API design, CI/CD automation, cloud-native development, and front-end frameworks enables me to deliver impactful solutions in fast-paced, agile environments. &nbsp;
+<p>As a seasoned Software Engineer, I specialize in designing and deploying scalable cloud architectures, developing robust microservices, and building responsive, high-performance webpages.<br />
+<p>With expertise in Java, C#, Angular, and DevOps tools like Kubernetes and Docker, I excel in creating full-stack applications that enhance productivity and reliability.<br />
+<p>My strong background in API design, CI/CD automation, cloud-native development, and front-end frameworks enables me to deliver impactful solutions in fast-paced, agile environments. <br />
 <p>Passionate about mentoring teams and driving innovation, I am dedicated to solving complex technical challenges and continuously advancing technology in dynamic settings.</p>
 
 #
