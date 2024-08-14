@@ -1,7 +1,5 @@
 ![github-header-image](https://github.com/user-attachments/assets/46bfbff0-8b0e-4cb9-92d3-75310df146b0)
 
-![Header](./github-header-image.png)
-
 <!--
 **jeffjordan97/jeffjordan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
