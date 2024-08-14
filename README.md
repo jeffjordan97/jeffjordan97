@@ -53,3 +53,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/jeffrey-jordan1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrey-jordan1997" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffjordan97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffjordan97" height="30" width="40" /></a>
 </p>
+
+#
+
+![jeff](https://github.com/user-attachments/assets/b73cf60c-16ba-42df-b33b-e1008b8cd44f)
