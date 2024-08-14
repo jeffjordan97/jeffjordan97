@@ -26,25 +26,25 @@ Here are some ideas to get you started:
 #
 
 <h3 align="left">🧰 Languages and Tools</h3>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
-<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-<img align="left" alt="Rancher" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/R/rancher-logo-73FFF3C1F7-seeklogo.com.png" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Elastic" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><br /><br />
+<img align="left" alt="Java" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt=".NET" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+<img align="left" alt="Rancher" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://seeklogo.com/images/R/rancher-logo-73FFF3C1F7-seeklogo.com.png" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Elastic" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><br /><br />
 
 #
 
