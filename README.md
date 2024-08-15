@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 #
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeffrey-jordan1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrey-jordan1997" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffjordan97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffjordan97" height="30" width="40" /></a>
@@ -56,3 +56,12 @@ Here are some ideas to get you started:
 #
 
 ![jeff](https://github.com/user-attachments/assets/b73cf60c-16ba-42df-b33b-e1008b8cd44f)
+
+#
+
+<h3 align="left">📊 Stats</h3>
+
+[![jeffjordan97's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jeffjordan97&show_icons=true&theme=default&hide=stars,contribs&rank_icon=github#gh-light-mode-only)](https://github.com/jeffjordan97/github-readme-stats#gh-light-mode-only)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjordan97&hide=ruby&layout=compact)](https://github.com/jeffjordan97/github-readme-stats)
+
