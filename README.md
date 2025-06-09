@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>I specialize in designing and deploying scalable cloud architectures, developing robust microservices, and building responsive, high-performance webpages.<br />
 <p>With expertise in Java, C#, Angular, and DevOps tools like Kubernetes and Docker, I enjoy creating full-stack applications that enhance productivity and reliability.<br />
 <p>My background in API design, CI/CD automation, cloud-native development, and front-end frameworks enables me to deliver impactful solutions in fast-paced, agile environments. <br />
-<p>Passionate about mentoring teams and driving innovation, I most enjoy solving complex technical challenges and continuously advancing my knowledge of technology in dynamic settings.</p>
+<p>Passionate about mentoring teams and driving innovation, I most enjoy solving complex technical challenges and continuously advancing my knowledge of technology.</p>
 
 #
 
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://user-images.githubusercontent.com/41644376/73791106-c26e9800-47b2-11ea-88ab-f871b81cb97d.png" />
+<img align="left" alt="Nuxt" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://nuxt.com/assets/design-kit/icon-green.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
@@ -36,12 +38,11 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://avatars.githubusercontent.com/u/2232217?s=280&v=4" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-<img align="left" alt="Rancher" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://seeklogo.com/images/R/rancher-logo-73FFF3C1F7-seeklogo.com.png" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Rancher" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://rancher.com/docs/img/logo-square.png" />
 <img align="left" alt="Elastic" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><br /><br />
 
